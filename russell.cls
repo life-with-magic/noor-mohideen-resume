@@ -672,9 +672,9 @@
   \end{center}
 }
 % Define a line of cv information(honor, award or something else)
-% Usage: \cvhonor{<position>}{<title>}{<location>}{<date>}
-\newcommand*{\cvhonor}[4]{%
-  \honordatestyle{#4} & \honorpositionstyle{#1}, \honortitlestyle{#2} & \honorlocationstyle{#3} \\
+% Usage: \cvhonor{<title>}{<location>}{<date>}
+\newcommand*{\cvhonor}[3]{%
+  \honordatestyle{#3} & \honorpositionstyle{#1} & \honorlocationstyle{#2} \\
 }
 
 % Define an environment for cvskill
