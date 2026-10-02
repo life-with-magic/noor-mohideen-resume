@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber resume"] 1790612990.28536 "resume.bcf" "resume.bbl" "resume" 1790787579.26995 0
-  "resume.bcf" 1790787578.93712 108022 d6af3ac55befd47c90e3535e65722678 "xelatex"
+["biber resume"] 1790978364.38906 "resume.bcf" "resume.bbl" "resume" 1790978743.57187 0
+  "resume.bcf" 1790978743.25417 108022 d6af3ac55befd47c90e3535e65722678 "xelatex"
   (generated)
   "resume.bbl"
   "resume.blg"
   (rewritten before read)
-["xdvipdfmx"] 1790787579.01606 "resume.xdv" "resume.pdf" "resume" 1790787579.27194 0
-  "resume.xdv" 1790787578.93829 79208 ff16ed17cd7e075b2cee614517b38504 "xelatex"
+["xdvipdfmx"] 1790978743.32751 "resume.xdv" "resume.pdf" "resume" 1790978743.57371 0
+  "resume.xdv" 1790978743.25505 92612 22af92eb9bba63d9fd50097d84c81299 "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1790787576.28027 "/Users/mohi/Documents/Personal-Projects/noor-mohideen-resume/resume.tex" "resume.xdv" "resume" 1790787579.27002 0
-  "/Users/mohi/Documents/Personal-Projects/noor-mohideen-resume/resume.tex" 1790787576.06872 3523 5fa6fcbfe62cee296afa82bae5657df0 ""
+["xelatex"] 1790978740.74737 "/Users/mohi/Documents/Personal-Projects/noor-mohideen-resume/resume.tex" "resume.xdv" "resume" 1790978743.57192 0
+  "/Users/mohi/Documents/Personal-Projects/noor-mohideen-resume/resume.tex" 1790976423.95014 3525 ebcb944c4019f5fa53b7511f77c954f6 ""
   "/usr/local/texlive/2026basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm" 1136768653 1508 3b32edd0d68f6498a5a375e78f9edc5e ""
@@ -185,18 +185,17 @@
   "/usr/local/texlive/2026basic/texmf-dist/web2c/texmf.cnf" 1770478701 43630 e9fa012910491fe5ae08a72c3c2997a7 ""
   "/usr/local/texlive/2026basic/texmf-var/web2c/xetex/xelatex.fmt" 1790474071 5411350 5733d830e6b17c330e3aed859d2ea83b ""
   "/usr/local/texlive/2026basic/texmf.cnf" 1772405582 628 bbc09d6d38872d53c11bb48dc9b14e88 ""
-  "cv/achievements.tex" 1790714467.08501 841 07ed8f99ae94aac818acf853f06c66fa ""
-  "cv/education.tex" 1790714467.08522 1496 69b8ea763df152189f8b9c94b3b81f10 ""
-  "cv/experience.tex" 1790714467.08542 1864 b745c0df65a0496febd08f6f6469c8be ""
-  "cv/interests.tex" 1790714467.0856 1310 61051f75a989c4c19ac2c972ba51342a ""
+  "cv/achievements.tex" 1790978730.16082 841 07ed8f99ae94aac818acf853f06c66fa ""
+  "cv/education.tex" 1790978730.16172 1725 032af98fca9748908a74c525f2ee0e48 ""
+  "cv/experience.tex" 1790978730.16006 1984 de47bcddf6476082283731922ee7528e ""
   "cv/languages.tex" 1790714467.08579 860 88c607b8bfd97f4095e10e18e6ec60fa ""
-  "cv/projects.tex" 1790714467.08599 4785 7c2b15e6c0d4ca94a139a42bff674e07 ""
-  "cv/skills.tex" 1790714467.08617 1309 cb10dd197d6c19f8b6587e81ea7deef7 ""
-  "cv/summary.tex" 1790714467.08637 932 de6584b7022907a26f3ac714149249e3 ""
-  "resume.aux" 1790787578.93281 189 21dc2a5d879d70f42896f240ffe91453 "xelatex"
-  "resume.bbl" 1790714467.08668 466 76d65a242ec496c9b4361af646ff12cb "biber resume"
-  "resume.run.xml" 1790787578.93816 2392 d6d0ebd8959311cd61d438b6a0625acb "xelatex"
-  "resume.tex" 1790787576.06872 3523 5fa6fcbfe62cee296afa82bae5657df0 ""
+  "cv/projects.tex" 1790978730.16257 6587 cdc730f3f1f530cd7ad2a61d27be5d21 ""
+  "cv/skills.tex" 1790976589.9351 1280 2e7a8cb4da511344e0732bb4d6983c90 ""
+  "cv/summary.tex" 1790978730.16132 965 f04088aaf6e55463c328875e57492a26 ""
+  "resume.aux" 1790978743.25047 189 21dc2a5d879d70f42896f240ffe91453 "xelatex"
+  "resume.bbl" 1790978365.76618 466 76d65a242ec496c9b4361af646ff12cb "biber resume"
+  "resume.run.xml" 1790978743.25497 2392 d6d0ebd8959311cd61d438b6a0625acb "xelatex"
+  "resume.tex" 1790976423.95014 3525 ebcb944c4019f5fa53b7511f77c954f6 ""
   "russell.cls" 1790714467.08941 32309 fe78c7d6c169a32e76352a37a54145b1 ""
   (generated)
   "resume.aux"

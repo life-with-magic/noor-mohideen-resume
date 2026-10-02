@@ -362,9 +362,6 @@ INPUT cv/languages.tex
 INPUT ./cv/achievements.tex
 INPUT ./cv/achievements.tex
 INPUT cv/achievements.tex
-INPUT ./cv/interests.tex
-INPUT ./cv/interests.tex
-INPUT cv/interests.tex
 INPUT resume.aux
 INPUT resume.run.xml
 OUTPUT resume.run.xml
